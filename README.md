@@ -10,4 +10,4 @@ We need to train using an extents.json file to input the responses, question pat
 
 rest of the model files are created automatically 
 
-The code when runned asks questions and can give different responses even when same question is repeated due to random module, also returning a right response 
+The code when compiled asks questions and can give different responses even when same question is repeated due to random module, also returning a right response 
