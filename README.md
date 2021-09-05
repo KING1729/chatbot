@@ -2,6 +2,8 @@ Task 2: The Intern Academy - 50'C Summer Internship program
 
 The project is to build a chat bot that can respond with proper answers to corresponding questions using its own intelligence through the trained data
 
+Working of the project : https://www.youtube.com/watch?v=K9NIHgCrhEM
+
 We use python as scripting language and deep learning to train with the data
 
 we use different modules like nltk, numpy, tflearn, random, json
